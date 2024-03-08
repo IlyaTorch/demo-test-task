@@ -5,8 +5,8 @@
 1. Clone the repository:
 
 ```
-$ git clone  <link>
-$ cd <link>
+$ git clone https://github.com/IlyaTorch/demo-test-task.git
+$ cd demo-test-task
 ```
 2. Fill in .env file or use .env_example:
 ```
